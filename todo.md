@@ -1,6 +1,7 @@
 [x] Plan
 [x] get used to the jekyll theme
-[] Set it up on github
+[x] Set it up on github
+[x] add logo
 [] Create Menu structure
 
 [] Decide on further stuff
