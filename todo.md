@@ -4,11 +4,11 @@
 [x] add logo
 [x] Create design for footer
     [x] Implement footer
-[] Create Menu structure
-    [] Radio
-    [] Schedule
-    [] Events
-    [] Contact Us
+[x] Create Menu structure
+    [x] Radio
+    [x] Schedule
+    [x] Events
+    [x] Contact Us
 [] Implement each page (MVP)
     [] Radio
     [] Schedule
@@ -20,6 +20,9 @@
 
 [] Add event items
 
+## Bugs
+[] Scrolling up on mobile, the header bar is still dark
+
 ## Hosting
 [] Move domain to google
 [] Point DNS to Gurdwara website
@@ -27,5 +30,6 @@
 ## Final tasks
 [] Delete redundant images
 [] amend index.html - change social.jpg
+[] Book event menu item?
 
 
