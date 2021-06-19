@@ -11,7 +11,7 @@
     [x] Contact Us
 [] Implement each page (MVP)
     [x] Radio
-    [] Schedule
+    [x] Schedule
     [] Events
     [] Contact Us
 [] Home page
