@@ -10,7 +10,7 @@
     [x] Events
     [x] Contact Us
 [] Implement each page (MVP)
-    [] Radio
+    [x] Radio
     [] Schedule
     [] Events
     [] Contact Us
@@ -30,6 +30,7 @@
 ## Final tasks
 [] Delete redundant images
 [] amend index.html - change social.jpg
+[] specific images for each page
 [] Book event menu item?
 
 

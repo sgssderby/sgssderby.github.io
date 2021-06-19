@@ -1,47 +1,15 @@
 ---
 title: Radio
-subtitle: Singh Sabha Radio is here
-description: Use the Argon Jekyll theme to build a landing page, blog or complete website.
+subtitle: Listen to the Singh Sabha Radio 24 x 7
+description: Singh Sabha's own live radio.
 featured_image: /assets/img/sections/unsplashs.jpg
 ---
 
---- 
+<p class="text-center">
+Siri Guru Singh Sabha Gurdwara Derby are proud to provide the sangat with our very own radio station in association with <a href="http://www.akjradio.org">akjradio.org</a>. Through this station, the sangat can listen to live events and pre-recorded keertan.
+</p>
 
-#### Getting Started
-You'll find some helpful samples on this page of what is possible with this theme below. 
-
-Any component or section present in the [Argon Pro docs](https://demos.creative-tim.com/argon-design-system-pro/docs/1.0/getting-started/overview.html) can be used.
-
-This template can be edited and changed in _pages/features.md. Just pick the components you like, then edit them to display your features.
-
----
-```components/features/feature-1.html ```
-{% include components/features/feature-1.html %}
-
----
-```components/features/feature-2.html ```
-{% include components/features/feature-2.html %}
-
----
-```components/features/feature-3.html ```
-{% include components/features/feature-3.html %}
-
----
-```components/features/feature-4.html ```
-{% include components/features/feature-4.html %}
-
----
-```components/features/feature-5.html ```
-{% include components/features/feature-5.html %}
-
----
-```components/features/feature-6.html ```
-{% include components/features/feature-7.html %}
-
----
-```components/features/feature-7.html ```
-{% include components/features/feature-6.html %}
-
----
-```components/features/feature-8.html ```
-{% include components/accordion.html %}
+<div class="text-center">
+    <p><a href="https://singhsabharadio.github.io" target="_blank" style="padding: 0 1rem; border: 2px solid #5e72e4;">Click here to listen</a></p>
+    <a href="https://singhsabharadio.github.io" target="_blank"><img src="{{'/assets/img/iphone-radio.png' | relative_url }}" style="max-width: 200px"></a>
+</div>
