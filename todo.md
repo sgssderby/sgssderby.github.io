@@ -13,7 +13,7 @@
     [x] Radio
     [x] Schedule
     [] Events
-    [] Contact Us
+    [x] Contact Us
 [] Home page
     [] Design header
         [] Perhaps rotating images of events
@@ -32,5 +32,6 @@
 [] amend index.html - change social.jpg
 [] specific images for each page
 [] Book event menu item?
+[] Do we want email address of the website
 
 
