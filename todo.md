@@ -9,16 +9,17 @@
     [x] Schedule
     [x] Events
     [x] Contact Us
-[] Implement each page (MVP)
+[x] Implement each page (MVP)
     [x] Radio
     [x] Schedule
-    [] Events
+    [x] Events
     [x] Contact Us
 [] Home page
     [] Design header
         [] Perhaps rotating images of events
+    [] Link to Youtube channel
+    [] Sikh Q&A
 
-[] Add event items
 
 ## Bugs
 [] Scrolling up on mobile, the header bar is still dark
