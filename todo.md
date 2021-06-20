@@ -15,10 +15,17 @@
     [x] Events
     [x] Contact Us
 [] Home page
-    [] Design header
-        [] Perhaps rotating images of events
-    [] Link to Youtube channel
-    [] Sikh Q&A
+    [x] Design header
+    [] Rotating images of sevadaars
+    [] Activities
+        [] Link to Youtube channel
+        [] Sikh Q&A
+        [] Khalsa Club
+        [] Saturday night Keertan
+        [] Punjabi School
+        [] NSM
+
+[] switch events with facebook feed
 
 
 ## Bugs
