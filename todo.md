@@ -24,7 +24,6 @@
         [] Saturday night Keertan
         [] Punjabi School
         [] NSM
-
 [] switch events with facebook feed
 
 
