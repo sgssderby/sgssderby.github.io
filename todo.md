@@ -19,13 +19,16 @@
     [] Rotating images of sevadaars
     [] Activities
         [] Link to Youtube channel
-        [] Sikh Q&A
-        [] Khalsa Club
-        [] Saturday night Keertan
-        [] Punjabi School
-        [] NSM
+        [x] Sikh Q&A
+        [x] Khalsa Club
+        [x] Saturday night Keertan
+        [x] Wednesday 
+        [x] Punjabi School
+        [x] NSM
+        [] Radio
+        [] YouTube
 [] switch events with facebook feed
-
+[] header images for all the pages
 
 ## Bugs
 [] Scrolling up on mobile, the header bar is still dark
