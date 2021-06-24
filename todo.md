@@ -14,10 +14,10 @@
     [x] Schedule
     [x] Events
     [x] Contact Us
-[] Home page
+[x] Home page
     [x] Design header
     [] Rotating images of sevadaars
-    [] Activities
+    [x] Activities
         [] Link to Youtube channel
         [x] Sikh Q&A
         [x] Khalsa Club
@@ -25,8 +25,8 @@
         [x] Wednesday 
         [x] Punjabi School
         [x] NSM
-        [] Radio
-        [] YouTube
+        [x] Radio
+        [x] YouTube
 [] switch events with facebook feed
 [] header images for all the pages
 
