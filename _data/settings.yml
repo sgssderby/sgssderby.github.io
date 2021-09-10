@@ -37,8 +37,6 @@ menu_settings:
       url: "/radio"
     - title: Schedule
       url: /schedule
-    - title: "Events"
-      url: /events
     - title: "Contact"
       url: "/contact"
 
