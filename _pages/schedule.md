@@ -2,7 +2,7 @@
 title: Schedule
 subtitle: Daily schedule of the Gurdwara
 description: Daily schedule of the Gurdwara
-featured_image: /assets/img/pages/nathan-dumlao.jpg
+featured_image: /assets/img/pages/schedule-banner.jpeg
 ---
 
 ## Monday - Thursday

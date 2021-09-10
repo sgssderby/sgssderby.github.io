@@ -2,7 +2,7 @@
 title: Radio
 subtitle: Listen to the Singh Sabha Radio 24 x 7
 description: Singh Sabha's own live radio.
-featured_image: /assets/img/sections/unsplashs.jpg
+featured_image: /assets/img/pages/radio-banner.jpeg
 ---
 
 <p class="text-center">
