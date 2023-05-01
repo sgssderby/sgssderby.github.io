@@ -10,6 +10,6 @@ Siri Guru Singh Sabha Gurdwara Derby are proud to provide the sangat with our ve
 </p>
 
 <div class="text-center">
-    <p><a href="https://singhsabharadio.github.io" target="_blank" style="padding: 0 1rem; border: 2px solid #5e72e4;">Click here to listen</a></p>
-    <a href="https://singhsabharadio.github.io" target="_blank"><img src="{{'/assets/img/iphone-radio.png' | relative_url }}" style="max-width: 200px"></a>
+    <p><a href="https://tinyurl.com/2vbcvnse" target="_blank" style="padding: 0 1rem; border: 2px solid #5e72e4;">Click here to listen</a></p>
+    <a href="https://tinyurl.com/2vbcvnse" target="_blank"><img src="{{'/assets/img/iphone-radio.png' | relative_url }}" style="max-width: 200px"></a>
 </div>
